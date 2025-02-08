@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Iam+Abivarsan+Ketheeswaran!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Abivarsan+Ketheeswaran!&center=true&size=40">
 </h1>
 
 <h3 align="center">A passionate full-stack developer from Sri Lanka 🇱🇰</h3>
