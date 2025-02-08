@@ -28,7 +28,7 @@
 
 - 🔭 Currently working on **TASKHIVE - WorkForce Management System**
 - 🌱 Learning **React, ASP.NET Core** while pursuing **BSc(Hons) in Information Technology and Management**
-- 👨‍💻 Portfolio: [Check out my work](https://abivarsan.github.io/AbivarsanK_Personal_Portfolio/)
+- 👨‍💻 Portfolio: [Check out my work](https://abivarsan.github.io/abivarsank_portfolio/)
 - 💬 Ask me about **Java, C#, React, .NET**
 - 📫 Reach me at **ketheeswaranabivarsan@gmail.com**
 - ⚡ Fun fact: **I love learning new technologies and building innovative solutions! 🚀**
